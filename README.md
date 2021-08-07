@@ -1,4 +1,4 @@
 # lunarlanding
 An reinforcement learning using DQN
 
-![Lunar Landing](lunarlanding.jpg)
+![Lunar Landing](moonlanding-epoch-1000.gif)
